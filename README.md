@@ -4,9 +4,7 @@
 
 ---
 
- > Important Instructions Before Beginning
- 
----
+## <p align="center">👉 Important Instructions Before Beginning 👈</p>
 
 - You have to try to solve the assignments by yourself first, This repo is for helping you know what are you can't solve or for checking another solution only
 
@@ -14,9 +12,7 @@
 
 ---
 
- > Important Notes From Videos
- 
----
+## <p align="center"> 👉 Important Notes From Videos 👈</p>
 
 1. Data Size That Stored In RAM
 
@@ -36,9 +32,7 @@ int main () {
 
 ---
 
-> Progress
-
----
+## <p align="center">👉 Progress 👈</p>
 
 * [X] Done
 * [ ] Will be done soon 
