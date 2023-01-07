@@ -18,7 +18,7 @@
  
 ---
 
-1. Data Types Usage From RAM
+1. Data Size That Stored In RAM
 
 ```cpp
 #include<iostream>
