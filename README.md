@@ -17,3 +17,13 @@
 > Progress
 
 ---
+
+* [X] Done
+* [ ] Will be done soon 
+
+---
+
+* [X] Assignment From [1 - 8] Topic 1
+* [X] Assignment From [9 - 15] Topic 2
+* [X] Assignment Video 17
+* [X] Assignment Video 20
