@@ -4,8 +4,16 @@
 
 ---
 
- > Important Note
+ > Important Notes
  
 ---
 
-- You have to try to solve the assignments by yourself first, This repo is for helping you know what are you can't solve or for checking another solution
+- You have to try to solve the assignments by yourself first, This repo is for helping you know what are you can't solve or for checking another solution only
+
+- Any issue in my answe please open a new issue and tag me to it and i will solve it ✔
+
+---
+
+> Progress
+
+---
