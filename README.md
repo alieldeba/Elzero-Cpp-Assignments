@@ -24,9 +24,8 @@ int main () {
  cout << sizeof(1) << endl; // Int (4 Byte)
  cout << sizeof(1.1f) << endl; // Float (4 Byte)
  cout << sizeof(1.1) << endl; // Double (8 Byte)
- cout << sizeof('a') << endl; // Char (1 Byte)
  cout << sizeof(true) << endl; // Bool (1 Byte)
- cout << sizeof("word") << endl; // String (8 Byte)
+ cout << sizeof('a') << endl; // Char (1 Byte)
 }
 ```
 
