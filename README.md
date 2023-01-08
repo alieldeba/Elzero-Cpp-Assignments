@@ -39,7 +39,12 @@ int main () {
 
 ---
 
-* [X] Assignment From [1 - 8] Topic 1
-* [X] Assignment From [9 - 15] Topic 2
+> Website Assignments
+
+* [X] Assignment From [1 - 8]
+* [X] Assignment From [9 - 15]
+
+> Videos Assignments
+
 * [X] Assignment Video 17
 * [X] Assignment Video 20
