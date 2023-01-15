@@ -7,8 +7,8 @@ int main() {
     cin >> kilobytes;
     cout << "\n";
     cout << "[1] " << kilobytes << " Kilobytes" << "\n";
-    cout << "[2] " << kilobytes / 1024 << " Bytes" << "\n";
-    cout << "[3] " << kilobytes / 1024 / 8 << " Bits"<< "\n";
+    cout << "[2] " << kilobytes * 1024 << " Bytes" << "\n";
+    cout << "[3] " << kilobytes * 1024 * 8 << " Bits"<< "\n";
 
     return 0;
 }
