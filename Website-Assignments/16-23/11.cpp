@@ -1,5 +1,4 @@
 #include <iostream>
-#include <math.h>
 using namespace std;
 
 int main() {
@@ -9,7 +8,7 @@ int main() {
     double c = 1.7;
     
     // Edit This Line And Use Type Casting To Get The Output
-    cout << a + int(b) + round(c) << "\n"; // 200
+    cout << a + int(b) + sizeof(short(c)) << "\n"; // 200
 
     return 0;
 }
