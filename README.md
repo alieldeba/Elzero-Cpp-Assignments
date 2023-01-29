@@ -1,4 +1,4 @@
-# <p align="center">✨ Elzero Cpp Assignments ✨</p>
+# <p align="center">✨ Elzero C++ Assignments ✨</p>
 
 <img src="https://i.ibb.co/RSD9MpM/Screenshot-264.png" width="100%" />
 
