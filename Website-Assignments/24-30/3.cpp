@@ -10,9 +10,7 @@ int main() {
       Do Not Use num = 6 :)
     */
     
-    num++;
-    num++;
-    num++;
+    num += num;
     
     // Do Not Edit
     cout << num << "\n"; // 6
