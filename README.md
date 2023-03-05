@@ -45,7 +45,7 @@ int main () {
 * [X] Assignment From [16 - 23]
 * [X] Assignment From [24 - 29]
 * [X] Assignment From [30 - 35]
-* [ ] Assignment From [36 - 37]
+* [X] Assignment From [36 - 37]
 
 > Videos Assignments
 
