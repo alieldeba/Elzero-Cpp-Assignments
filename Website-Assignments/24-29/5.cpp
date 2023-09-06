@@ -1,14 +1,15 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     // Assign The Values
-    char a = NULL;
-    char b = 'd';
-    char c = '\n';
-    
+    char a = 'd';
+    char b = '\n';
+    char c = 'Z';
+
     // Do Not Edit
-    cout << b * c + a << "\n"; // 1000
+    cout << b * c + a << "\n"; // 10 * 90 + 100 = 1000
 
     return 0;
 }
